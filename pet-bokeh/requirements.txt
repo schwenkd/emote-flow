@@ -1,0 +1,10 @@
+numpy
+fastapi
+pydantic
+uvicorn
+python-multipart
+tensorflow
+opencv-python-headless
+icrawler
+scipy
+tritonclient[http]
